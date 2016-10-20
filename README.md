@@ -1,4 +1,6 @@
-Go playground
+[![go.jpg](https://s22.postimg.org/96xel9xap/image.jpg)](https://postimg.org/image/teaudkurx/)
+
+ Go playground
 =============
 
 Execute the command :
