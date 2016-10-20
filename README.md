@@ -5,4 +5,4 @@ Execute the command :
 
     go run hello.go
     
-[![Terminal](https://s15.postimg.org/64g77mj1n/terminal.jpg)](https://postimg.org/image/nuhvsnwmf/)
+[![Terminal](https://s17.postimg.org/ev54g96ov/terminal.jpg)](https://postimg.org/image/3vjx4ng9n/)
