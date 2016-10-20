@@ -2,7 +2,6 @@ package main
 
 import "fmt"
 
-
 type shape interface {
 	draw()
 }
